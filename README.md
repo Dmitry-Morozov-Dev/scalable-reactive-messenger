@@ -67,8 +67,8 @@
 - Базовые метрики; retry/Circuit Breaker.
 - Frontend на React Native: Основной функционал (чаты, сообщения).
 
-**Демо:** [Смотреть демо на YouTube](https://youtu.be/zJA3vu260ak) 
-[![Смотреть демо на YouTube — кликни на превью](https://img.youtube.com/vi/zJA3vu260ak/maxresdefault.jpg)](https://youtu.be/zJA3vu260ak)  
+**Демо:** [Смотреть демо на YouTube](https://youtu.be/asuP2z5bgkI) 
+[![Смотреть демо на YouTube — кликни на превью](https://img.youtube.com/vi/asuP2z5bgkI/maxresdefault.jpg)](https://youtu.be/asuP2z5bgkI)  
 Пользовательская часть (авторизация) в разработке.
 
 ### Запуск локально
