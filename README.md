@@ -9,6 +9,8 @@
 [![Redis](https://img.shields.io/badge/Redis-red?logo=redis)](https://redis.io/)
 [![Cassandra](https://img.shields.io/badge/Cassandra-purple?logo=apachecassandra)](https://cassandra.apache.org/)
 
+**Прошлый репозиторий:** https://github.com/MorozovDima07/messenger
+
 ### Обзор проекта
 Это масштабируемый мессенджер, ориентированный на обработку миллионов пользователей с минимальными задержками. Система обеспечивает real-time коммуникацию, управление профилями, чатами, медиафайлами и уведомлениями.
 
